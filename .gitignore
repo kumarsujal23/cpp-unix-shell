@@ -1,0 +1,28 @@
+# CMake build output
+/build/
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
