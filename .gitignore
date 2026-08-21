@@ -26,3 +26,6 @@ compile_commands.json
 Thumbs.db
 *.swp
 *~
+# Python cache, if any helper scripts exist
+__pycache__/
+*.pyc
